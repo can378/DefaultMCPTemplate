@@ -8,7 +8,7 @@ using [FastMCP](https://github.com/chain-ml/model-context-protocol) library and 
 
 ---
 
-# MCP Server Test
+## ⭐ MCP Server Test
 
 ```bash
 # 1. Create and activate a Python virtual environment
@@ -47,7 +47,7 @@ Command
 
 ---
 
-# MCP AI Agent Test
+## ⭐ MCP AI Agent Test
 
 ```bash
 #1. create .env on root and add "OPENAI_API_KEY"
