@@ -24,7 +24,7 @@ mcp dev main.py
 
 ```
 
-### ❗ERROR - No module named 'mcp_server'
+❗ERROR - No module named 'mcp_server'
 
 This usually means the Python path is not set correctly.
 
@@ -35,7 +35,7 @@ set PYTHONPATH=<project root path>
 set PYTHONPATH=C:\workspace\DefaultMCPTemplate
 ```
 
-### Optional: For MCP Inspector
+❗Optional: For MCP Inspector
 
 Arguments 
 
