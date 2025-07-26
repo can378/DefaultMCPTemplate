@@ -4,9 +4,7 @@ simple MCP (Model Context Protocol) server and AI agent template
 
 using [FastMCP](https://github.com/chain-ml/model-context-protocol) library and `httpx`
 
-
-## ⚠️ warning
-- python 3.10+
+⚠️ warning = python 3.10+
 
 ---
 
