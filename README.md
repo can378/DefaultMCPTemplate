@@ -24,7 +24,7 @@ mcp dev main.py
 
 ```
 
-❗ERROR - No module named 'mcp_server'
+❗ERROR - No module named 'mcp_server' or 'App'
 
 This usually means the Python path is not set correctly.
 
